@@ -22,7 +22,8 @@ It also discusses issues such as:
 - Learn data analysis and visualization using Python
 
 ## 🛠️ Tools & Libraries
-- **Python 3**
+- **Colab**
+- **Python**
 - **Pandas** – Data loading, cleaning, manipulation
 - **Matplotlib** – Basic visualizations
 - **Seaborn** – Enhanced, statistical visualizations
